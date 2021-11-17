@@ -10,8 +10,8 @@
 
 **İletişim:**
 
-- [Türkiyerli Destek](destek@turkiyerli.com)
-- [Türkiyerli Kurumsal](kurumsal@turkiyerli.com)
+- Türkiyerli Destek: destek@turkiyerli.com
+- Türkiyerli Kurumsal: kurumsal@turkiyerli.com
 
 
 **Sosyal Medyalar:**
