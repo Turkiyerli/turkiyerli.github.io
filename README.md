@@ -6,6 +6,7 @@
 
 [Türkiyerli Mağaza Rehberi](https://www.turkiyerli.github.io/)
 
+---
 
 **İletişim:**
 
@@ -22,5 +23,6 @@
 - [Youtube](https://www.youtube.com/channel/UCGL7lZ9cTE8ireayRRiWTjQ)
 - [Linkedln](https://www.linkedin.com/company/turkiyerli)
 
+---
 
 Şablon https://templatemo.com/ adresinden alınmıştır.
