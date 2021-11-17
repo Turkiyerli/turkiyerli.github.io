@@ -6,9 +6,6 @@
 
 [Türkiyerli Mağaza Rehberi](https://www.turkiyerli.github.io/)
 
-[Türkiyerli Mağaza Açma Sayfası](https://magaza.turkiyerli.com)
-
-
 
 **İletişim:**
 
